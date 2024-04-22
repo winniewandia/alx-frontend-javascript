@@ -6,3 +6,4 @@ task 4: Rest parameter
 task 5: Spread syntax
 task 6: template literals
 task 7: Object property value shorthand syntax
+task 8: No need to create empty objects before adding in properties
