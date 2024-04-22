@@ -5,3 +5,4 @@ task 3: Parameter defaults
 task 4: Rest parameter
 task 5: Spread syntax
 task 6: template literals
+task 7: Object property value shorthand syntax
