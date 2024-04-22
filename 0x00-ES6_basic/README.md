@@ -8,3 +8,4 @@ task 6: template literals
 task 7: Object property value shorthand syntax
 task 8: No need to create empty objects before adding in properties
 task 9: ES6 method properties
+task 10: For...of Loops
