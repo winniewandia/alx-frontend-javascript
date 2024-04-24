@@ -8,3 +8,4 @@
 7. returning the value returned by the promise that resolved the first.
 8. throw error synatax
 9. try and catch syntax
+10. Await / Async
