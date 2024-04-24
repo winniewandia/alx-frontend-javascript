@@ -5,7 +5,8 @@ export default function handleProfileSignup() {
     createUser().then((response2) => {
       console.log(`${response1.body} ${response2.firstName} ${response2.lastName}`)
     });
-  }).catch(() => {
-    console.log('Signup system offline');
-  });
+  })
+    .catch(() => {
+      console.log('Signup system offline');
+    });
 }

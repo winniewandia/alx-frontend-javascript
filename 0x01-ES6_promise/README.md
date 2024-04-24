@@ -5,3 +5,6 @@
 4. simple promise
 5. promise reject
 6. handling multiple promises
+7. returning the value returned by the promise that resolved the first.
+8. throw error synatax
+9. try and catch syntax
