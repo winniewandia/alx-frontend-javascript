@@ -1,4 +1,3 @@
-import ClassRoom from "./0x02-ES6_classes/0-classroom.js";
+import getListStudents from './0x03-ES6_data_manipulation/0-get_list_students.js';
 
-const room = new ClassRoom(10);
-console.log(room._maxStudentsSize)
+console.log(getListStudents());
