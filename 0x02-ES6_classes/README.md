@@ -7,3 +7,4 @@
 6. extending an abstract class
 7. toString() method implementation
 8. Converting an object to the primitive value
+9. Hoisting
