@@ -8,3 +8,4 @@
 7. toString() method implementation
 8. Converting an object to the primitive value
 9. Hoisting
+10. using this.constructor to create a new clone of object
