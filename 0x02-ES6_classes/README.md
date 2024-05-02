@@ -5,3 +5,5 @@
 4. Using class inside another class
 5. implementing a method from an abstract class
 6. extending an abstract class
+7. toString() method implementation
+8. Converting an object to the primitive value
