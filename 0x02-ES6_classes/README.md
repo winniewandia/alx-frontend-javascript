@@ -4,3 +4,4 @@
 3. methods
 4. Using class inside another class
 5. implementing a method from an abstract class
+6. extending an abstract class
