@@ -4,3 +4,4 @@
 3. Array.reduce()
 4. combine filter and map
 5. typed array
+6. 
