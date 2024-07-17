@@ -1,11 +1,14 @@
 export function uploadPhoto() {
-  return new Promise((resolve) => {
-    resolve({ status: 200, body: 'photo-profile-1' });
+  return Promise.resolve({
+    status: 200,
+    body: 'photo-profile-1',
   });
 }
 
+
 export function createUser() {
-  return new Promise((resolve) => {
-    resolve({ firstName: 'Guillaume', lastName: 'Salva'});
+  return Promise.resolve({
+    firstName: 'Guillaume',
+    lastName: 'Salva',
   });
 }
